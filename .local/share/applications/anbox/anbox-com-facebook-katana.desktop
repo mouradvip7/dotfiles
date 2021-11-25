@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Facebook
+Exec=/usr/bin/anbox launch --action=android.intent.action.MAIN --package=com.facebook.katana --component=com.facebook.katana.LoginActivity 
+Terminal=false
+Categories=Anbox;
+Icon=/home/mourad/.local/share/applications/anbox/anbox-com-facebook-katana.png

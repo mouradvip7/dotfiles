@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=XML Editor
+MimeType=application/xml;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen xmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=1554_MSOXMLED.0

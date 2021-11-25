@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Office 2010 Upload Center
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Office\\ 2010\\ Tools/Microsoft\\ Office\\ 2010\\ Upload\\ Center.lnk
+Type=Application
+StartupNotify=true
+Comment=Manage file uploads to web servers using the Microsoft Office Upload Center.
+Icon=0A9A_msouc.0
+StartupWMClass=msouc.exe

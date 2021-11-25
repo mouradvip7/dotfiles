@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Access
+MimeType=application/x-wine-extension-accdu;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Access.WizardUserDataFile.14 %f
+NoDisplay=true
+StartupNotify=true
+Icon=D104_MSACCESS.0

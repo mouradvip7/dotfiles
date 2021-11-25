@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft SharePoint Workspace 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/SharePoint/Microsoft\\ SharePoint\\ Workspace\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Sync SharePoint sites to your computer and work with the content as if you were connected using Microsoft SharePoint Workspace.
+Icon=7F63_grvicons.0
+StartupWMClass=groove.exe

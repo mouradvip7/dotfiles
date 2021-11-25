@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Excel
+MimeType=text/x-ms-iqy;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen iqyfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=15C0_EXCEL.0

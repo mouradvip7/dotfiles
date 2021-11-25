@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Clip Organizer
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Office\\ 2010\\ Tools/Microsoft\\ Clip\\ Organizer.lnk
+Type=Application
+StartupNotify=true
+Comment=Import and organize photos, clip art, sounds and motion files using Microsoft Clip Organizer.
+Icon=FA41_cagicon.0
+StartupWMClass=mstore.exe

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft SharePoint Workspace
+MimeType=application/vnd.groove-vcard;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen GrooveVCard %f
+NoDisplay=true
+StartupNotify=true
+Icon=AE1F_GROOVE.0

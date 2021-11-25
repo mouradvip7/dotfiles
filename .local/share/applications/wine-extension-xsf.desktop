@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft InfoPath 2010
+MimeType=application/x-wine-extension-xsf;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen InfoPath.SolutionManifest.3 %f
+NoDisplay=true
+StartupNotify=true
+Icon=36C0_INFOPATH.0

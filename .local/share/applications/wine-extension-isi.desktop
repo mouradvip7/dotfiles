@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Zotero
+MimeType=application/x-inst-for-scientific-info;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen ZoteroISI %f
+NoDisplay=true
+StartupNotify=true
+Icon=6E64_zotero.0

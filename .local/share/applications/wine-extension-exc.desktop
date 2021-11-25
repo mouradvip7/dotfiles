@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=notepad
+MimeType=application/x-wine-extension-exc;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen txtfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=2E40_notepad.0

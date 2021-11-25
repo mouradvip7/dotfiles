@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Outlook 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Outlook\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Send and receive e-mail; manage your schedule, contacts, and tasks; and record your activities by using Microsoft Outlook.
+Icon=DAE7_outicon.0
+StartupWMClass=outlook.exe

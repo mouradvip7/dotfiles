@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Access
+MimeType=application/x-wine-extension-mad;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Access.Shortcut.Module.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=D104_MSACCESS.0

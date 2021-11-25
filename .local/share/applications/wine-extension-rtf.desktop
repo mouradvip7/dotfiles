@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Word
+MimeType=application/rtf;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Word.RTF.8 %f
+NoDisplay=true
+StartupNotify=true
+Icon=835C_WINWORD.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Internet Explorer
+MimeType=application/vnd.ms-visio.viewer;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen VisioViewer.Viewer %f
+NoDisplay=true
+StartupNotify=true
+Icon=6EC8_iexplore.0

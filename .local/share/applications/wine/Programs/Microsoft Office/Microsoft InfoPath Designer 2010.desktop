@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft InfoPath Designer 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ InfoPath\\ Designer\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Design dynamic forms to gather and reuse information throughout the organization using Microsoft InfoPath.
+Icon=825D_inficon.3
+StartupWMClass=infopath.exe

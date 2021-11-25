@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Word 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Word\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Create and edit professional-looking documents such as letters, papers, reports, and booklets by using Microsoft Word.
+Icon=0575_wordicon.0
+StartupWMClass=winword.exe

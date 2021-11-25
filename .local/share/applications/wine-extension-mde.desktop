@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Access
+MimeType=application/msaccess;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Access.MDEFile.14 %f
+NoDisplay=true
+StartupNotify=true
+Icon=D104_MSACCESS.0

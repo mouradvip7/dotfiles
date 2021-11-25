@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Zotero
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Zotero.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mourad/.office2010/dosdevices/c:/Program Files/Zotero
+Icon=6E64_zotero.0
+StartupWMClass=zotero.exe

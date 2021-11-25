@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Snapchat
+Exec=/usr/bin/anbox launch --action=android.intent.action.MAIN --package=com.snapchat.android --component=com.snapchat.android.LandingPageActivity 
+Terminal=false
+Categories=Anbox;
+Icon=/home/mourad/.local/share/applications/anbox/anbox-com-snapchat-android.png

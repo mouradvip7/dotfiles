@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Access
+MimeType=application/msaccess.addin;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Access.ACCDAExtension.14 %f
+NoDisplay=true
+StartupNotify=true
+Icon=4267_MSACCESS.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Access 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Access\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Create databases and programs to track and manage your information by using Microsoft Access.
+Icon=CE2A_accicons.0
+StartupWMClass=msaccess.exe

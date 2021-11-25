@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Outlook
+MimeType=application/x-wine-extension-hol;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Outlook.File.hol.14 %f
+NoDisplay=true
+StartupNotify=true
+Icon=8E67_OUTLOOK.0

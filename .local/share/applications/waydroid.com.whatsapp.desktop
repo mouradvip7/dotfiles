@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=WhatsApp
+Exec=waydroid app launch com.whatsapp
+Icon=/home/mourad/.local/share/waydroid/data/icons/com.whatsapp.png

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Clubhouse
+Exec=waydroid app launch com.clubhouse.app
+Icon=/home/mourad/.local/share/waydroid/data/icons/com.clubhouse.app.png

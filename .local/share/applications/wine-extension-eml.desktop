@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Outlook
+MimeType=message/rfc822;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Outlook.File.eml.14 %f
+NoDisplay=true
+StartupNotify=true
+Icon=0AE0_OUTLOOK.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft OneNote
+MimeType=application/msonenote;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen OneNote.Section.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=EE91_ONENOTE.0

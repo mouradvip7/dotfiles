@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Clip Organizer
+MimeType=application/vnd.ms-mediapackage;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen MediaPackageFile %f
+NoDisplay=true
+StartupNotify=true
+Icon=BC9B_MSTORE.0

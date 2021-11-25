@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft PowerPoint 2010
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ PowerPoint\\ 2010.lnk
+Type=Application
+StartupNotify=true
+Comment=Create and edit presentations for slide shows, meetings, and Web pages by using Microsoft PowerPoint.
+Icon=1CE1_pptico.0
+StartupWMClass=powerpnt.exe

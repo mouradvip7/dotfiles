@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Excel
+MimeType=application/vnd.ms-excel;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen Excel.Macrosheet %f
+NoDisplay=true
+StartupNotify=true
+Icon=A888_EXCEL.0

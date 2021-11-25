@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Khan Academy
+Exec=/usr/bin/anbox launch --action=android.intent.action.MAIN --package=org.khanacademy.android --component=org.khanacademy.android.ui.library.MainActivity 
+Terminal=false
+Categories=Anbox;
+Icon=/home/mourad/.local/share/applications/anbox/anbox-org-khanacademy-android.png

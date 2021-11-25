@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Zotero
+MimeType=application/rdf+xml;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen ZoteroRDF %f
+NoDisplay=true
+StartupNotify=true
+Icon=6E64_zotero.0

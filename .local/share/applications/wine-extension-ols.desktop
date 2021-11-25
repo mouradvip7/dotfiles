@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Publisher
+MimeType=application/vnd.ms-publisher;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen OfficeListShortcut %f
+NoDisplay=true
+StartupNotify=true
+Icon=24FF_MSPUB.0

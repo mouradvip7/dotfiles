@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Office Picture Manager
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/mourad/.office2010/dosdevices/c:/users/mourad/AppData/Roaming/Microsoft/Windows/Start\\ Menu/Programs/Microsoft\\ Office/Microsoft\\ Office\\ 2010\\ Tools/Microsoft\\ Office\\ Picture\\ Manager.lnk
+Type=Application
+StartupNotify=true
+Comment=Organize, edit, and share picture files by using Microsoft Office Picture Manager.
+Icon=4000_oisicon.0
+StartupWMClass=ois.exe

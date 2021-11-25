@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Word
+MimeType=application/x-wine-extension-dochtml;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen wordhtmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=835C_WINWORD.0

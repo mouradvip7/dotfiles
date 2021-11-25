@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft OneNote
+MimeType=application/x-wine-extension-onetoc;
+Exec=env WINEPREFIX="/home/mourad/.office2010" wine start /ProgIDOpen OneNote.TableOfContents %f
+NoDisplay=true
+StartupNotify=true
+Icon=EE91_ONENOTE.0
